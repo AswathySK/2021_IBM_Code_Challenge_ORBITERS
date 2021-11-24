@@ -1,7 +1,7 @@
 # 2021_IBM_Code_Challenge_ORBITERS
 A number of challenges like climate change and crop diseases pose hindrance to sustainable agricultural practices which are of great significance for global crop production. To meet these challenges and warn growers of possible threat it is essential that the recommendations provided to them are efficient, correct and based on outcomes from scientific studies.
 
-We have designed a system that can provide early disease detection in fields that are difficult to survey manually, using image processing of multispectral satellite imagery along with the best possible solutions and guidance provided to farmers by an ML model. All the farmer has to do is to enrol himself with our website ( http://5526-116-68-75-149.ngrok.io/try.html ) and share with us his location and contact details.
+We have designed a system that can provide early disease detection in fields that are difficult to survey manually, using image processing of multispectral satellite imagery along with the best possible solutions and guidance provided to farmers by an ML model. All the farmer has to do is to enrol himself with our website ( https://aswathyskumar144.wixsite.com/agribiters/rice through which the farmer can access the form http://5526-116-68-75-149.ngrok.io/try.html ) and share with us his location and contact details.
 
 Farmers will receive an early disease warning with the types of diseases that could possibly infest their crop area along with the fertilizers they could use to effectively prevent these diseases from occurring.
 
