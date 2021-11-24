@@ -29,3 +29,10 @@ ML Model for fertilizer prediction (Random forest model)
 5, Aswathy S Kumar
 
 Website (HTML,Database)
+
+
+https://user-images.githubusercontent.com/94966808/143309503-4f8cbec0-7b0d-49ba-9e85-16d49bc74c76.mp4
+
+
+
+
